@@ -1,1 +1,1 @@
-Este es el repositorio de backend de mi proyecto apra Argentina Programa
+Este es el repositorio de backend de mi proyecto para Argentina Programa
